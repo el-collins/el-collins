@@ -2,6 +2,25 @@
 
 <h1 align="center"> My name is Collins and I'm a software engineer, from <img src="https://cdn-icons-png.flaticon.com/512/5922/5922004.png" width="25" /> <b>Enugu, Nigeria</b>. </h1>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/el-collins/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/el-collins/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/el-collins/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+###
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el-collins&label=Profile%20views&color=0e75b6&style=flat" alt="el-collins" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=el-collins" alt="el-collins" /></a> </p>
