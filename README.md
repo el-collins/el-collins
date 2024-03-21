@@ -2,7 +2,7 @@
 
 <h1 align="center"> My name is Collins and I'm a software engineer, from <img src="https://cdn-icons-png.flaticon.com/512/5922/5922004.png" width="25" /> <b>Enugu, Nigeria</b>. </h1>
 
-<picture>
+<picture align="center">
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/el-collins/snk/output/github-contribution-grid-snake-dark.svg"
