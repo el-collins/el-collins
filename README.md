@@ -1,6 +1,7 @@
 <h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<h1 align="center">I'm Collins, a Software Engineer</h1>
+<p align="center"> My name is Collins and I'm a software engineer, from <img src="https://www.flaticon.com/free-icon/nigeria_5922004" width="17" /> <b>Enugu, Brasil</b>. </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el-collins&label=Profile%20views&color=0e75b6&style=flat" alt="el-collins" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=el-collins" alt="el-collins" /></a> </p>
