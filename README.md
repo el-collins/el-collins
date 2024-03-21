@@ -1,6 +1,6 @@
 <h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<h1 align="center"> My name is Collins and I'm a software engineer, from <img src="https://cdn-icons-png.flaticon.com/512/5922/5922004.png" width="17" /> <b>Enugu, Nigeria</b>. </h1>
+<h1 align="center"> My name is Collins and I'm a software engineer, from <img src="https://cdn-icons-png.flaticon.com/512/5922/5922004.png" width="25" /> <b>Enugu, Nigeria</b>. </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el-collins&label=Profile%20views&color=0e75b6&style=flat" alt="el-collins" /> </p>
 
