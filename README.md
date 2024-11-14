@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **elcollinz@gmail.com**
 
-- 📄 Know about my experiences [https://collinskelechi.vercel.app/](https://collinskelechi.vercel.app/)
+- 📄 Know about my experiences [https://elcollins.tech](https://elcollins.tech)
 
 - ⚡ Fun fact **I know I am smart and wise.**
 
