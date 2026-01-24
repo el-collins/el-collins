@@ -25,7 +25,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=el-collins" alt="el-collins" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://x.com/" target="blank"><img src="https://img.shields.io/x/follow/?logo=x&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Algorithms & Data structures and Devops**
 
