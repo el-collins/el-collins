@@ -1,4 +1,4 @@
-<h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<!-- <h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 <h1 align="center"> My name is Collins and I'm a software engineer and AI engineer. </h1>
 
@@ -115,4 +115,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=el-collins&" alt="el-collins" /></p>
 
 
-###
+### -->
